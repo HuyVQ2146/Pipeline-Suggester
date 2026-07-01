@@ -1,0 +1,21 @@
+Deal_ID,Company_Name,Contact_Name,Contact_Email,Deal_Value,Stage,Last_Activity_Date,Owner
+D001,Acme Corp,John Smith,john@acmecorp.com,120000,Negotiation,2025-06-28,Alice
+D002,Beta LLC,Jane Doe,jane@betallc.com,85000,Proposal,2025-05-20,Bob
+D003,Gamma Inc,Bob Johnson,bob@gammainc.com,75000,Discovery,2025-06-27,Alice
+D004,Delta Ltd,Carol White,carol@deltaltd.com,200000,Negotiation,2025-04-10,Charlie
+D005,Epsilon Co,Dave Brown,dave@epsilonco.com,32000,Qualification,2025-06-25,Diana
+D006,Zeta Analytics,Eve Davis,eve@zetaanalytics.com,95000,Proposal,2025-03-28,Bob
+D007,Eta Systems,Frank Lee,frank@etasystems.com,45000,Discovery,2025-06-22,Charlie
+D008,Theta Global,Grace Kim,grace@thetaglobal.com,180000,Negotiation,2025-05-01,Alice
+D009,Iota Solutions,Henry Park,henry@iotasolutions.com,60000,Qualification,2025-04-15,Diana
+D010,Kappa Retail,Iris Chen,iris@kapparetail.com,35000,Discovery,2025-06-29,Bob
+D011,Lambda Health,Mark Taylor,mark@lambdahealth.com,150000,Proposal,2025-06-18,Alice
+D012,Mu Dynamics,Sarah Lee,sarah@mudynamics.com,88000,Negotiation,2025-05-15,Charlie
+D013,Nu Ventures,Tom Wang,tom@nuventures.com,42000,Qualification,2025-06-20,Bob
+D014,Xi Constructors,Lisa Chen,lisa@xiconstructors.com,250000,Negotiation,2025-04-01,Diana
+D015,Omicron Media,Raj Patel,raj@omicronmedia.com,55000,Discovery,2025-06-10,Alice
+D016,Pi Logistics,Emma Wilson,emma@pilogistics.com,110000,Proposal,2025-05-05,Charlie
+D017,Rho Chemicals,Victor Brown,victor@rhochemicals.com,175000,Negotiation,2025-03-15,Bob
+D018,Sigma Retail,Yuki Tanaka,yuki@sigmaretail.com,65000,Qualification,2025-06-24,Diana
+D019,Tau Energy,Nina Garcia,nina@tauenergy.com,92000,Proposal,2025-05-28,Alice
+D020,Upsilon Farm,Ken Miller,ken@upsilonfarm.com,28000,Discovery,2025-06-26,Charlie

@@ -1,0 +1,32 @@
+# Pipeline Suggester — Docker ignore
+#
+# Excludes files not needed in the container image
+
+.git
+.gitignore
+.env
+.env.example
+.venv
+venv/
+*.pyc
+__pycache__/
+.pytest_cache/
+.coverage
+.htmlcov/
+*.egg-info/
+dist/
+build/
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+.adk/
+agent_logs/
+test_*.py
+demo_*.py
+*.md
+!README.md
+Dockerfile
+.dockerignore
