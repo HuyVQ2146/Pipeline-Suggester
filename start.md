@@ -11,7 +11,7 @@
 
 ### 1.2 Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/HuyVQ2146/Pipeline-Suggester
 cd pipeline-suggester
 ```
 

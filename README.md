@@ -91,7 +91,7 @@ After the Action Suggester returns draft emails with tokens, the orchestrator **
 
 ```bash
 # 1. Clone the repository
-git clone <your-repo-url>
+git clone https://github.com/HuyVQ2146/Pipeline-Suggester
 cd pipeline-suggester
 
 # 2. Create a virtual environment
